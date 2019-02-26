@@ -1,0 +1,17 @@
+{
+  "name": "cwp-23",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/victoriantonova/cwp-23.git",
+  "author": "Victoria Antonova <victori.antonova@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@chemistry/elements": "^2.5.1"
+  },
+  "workspaces": [
+    "mendeleev",
+    "mendeleev-master",
+    "mendeleev-stringify"
+  ]
+}
